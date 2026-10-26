@@ -1,4 +1,4 @@
-# QUESTION
+# Question
 
 Create a mobile application that utilizes SQLite database that can store data based on the image. Note that you may put the ADD, EDIT, DELETE, VIEW buttons as you wish. MAKE SURE THE STUDENT ID IS UNIQUE
 
