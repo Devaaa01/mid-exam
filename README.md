@@ -9,7 +9,7 @@ Case 1: Student Name, Student ID, Major (Informatics / Information Systems)
 
 ## Application Results
 
-| Main Screen (Input Form) | View Screen (Student List & CRUD) |
+| Main Screen (Input Form) | View Screen |
 |:---:|:---:|
 | <img src="screenshots/main_screen.png" width="300"/> | <img src="screenshots/view_screen.png" width="300"/> |
 
